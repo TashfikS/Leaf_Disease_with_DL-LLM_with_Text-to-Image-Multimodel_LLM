@@ -1,0 +1,7 @@
+requests==2.31.0
+py7zr==0.16.0
+opencv-python==4.8.0.76
+numpy<2
+kagglehub==0.1.4
+py2neo
+pandas
